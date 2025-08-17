@@ -34,6 +34,7 @@ git clone https://github.com/your-username/shopify-sales-dashboard.git
 
 📸 Dashboard Preview
 
-<img width="1376" height="806" alt="image" src="https://github.com/user-attachments/assets/c614b63a-df7d-4564-aa42-e89847ad6c51" />
-![Uploading image.png…]()
+<img width="1373" height="805" alt="image" src="https://github.com/user-attachments/assets/266c994e-bd91-4fa3-986b-19ecec1dc035" />
+<img width="1376" height="806" alt="image" src="https://github.com/user-attachments/assets/8aed68c0-2b4f-40b4-adf3-2745e80e988a" />
+
 
