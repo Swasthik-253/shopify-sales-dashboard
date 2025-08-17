@@ -30,3 +30,10 @@ git clone https://github.com/your-username/shopify-sales-dashboard.git
 3.Load your Shopify datasets (CSV exports).
 
 4.Refresh the data and explore your store insights.
+
+
+📸 Dashboard Preview
+
+<img width="1376" height="806" alt="image" src="https://github.com/user-attachments/assets/c614b63a-df7d-4564-aa42-e89847ad6c51" />
+![Uploading image.png…]()
+
